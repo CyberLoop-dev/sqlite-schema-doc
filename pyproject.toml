@@ -1,0 +1,6 @@
+[project]
+name = "sqlite-schema-doc"
+version = "1.0.0"
+description = "Generate a self-contained HTML data dictionary from a local SQLite database."
+requires-python = ">=3.10"
+dependencies = []
